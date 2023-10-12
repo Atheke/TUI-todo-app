@@ -1,4 +1,4 @@
 #!/bin/bash
 #script to run the program
-gcc input_screen.c -lncurses
+gcc todo.c -lncurses
 ./a.out
